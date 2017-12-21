@@ -41,5 +41,11 @@
             "Sulu\\Bundle\\PricingBundle": ""
         }
     },
-    "target-dir": "Sulu/Bundle/PricingBundle"
+    "target-dir": "Sulu/Bundle/PricingBundle",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/esserj/product-bundle"
+        }
+    ]
 }
